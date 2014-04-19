@@ -159,7 +159,6 @@ PRODUCT_COPY_FILES += \
         vendor/sony/montblanc-common/proprietary/lib/libshmnetlnk.so:system/lib/libshmnetlnk.so \
         vendor/sony/montblanc-common/proprietary/lib/libsms_server.so:system/lib/libsms_server.so \
         vendor/sony/montblanc-common/proprietary/lib/libspeech_processing.so:system/lib/libspeech_processing.so \
-        vendor/sony/montblanc-common/proprietary/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
         vendor/sony/montblanc-common/proprietary/lib/libste_adm.so:system/lib/libste_adm.so \
         vendor/sony/montblanc-common/proprietary/lib/libste_aiq_tools.so:system/lib/libste_aiq_tools.so \
         vendor/sony/montblanc-common/proprietary/lib/libste_audio_hwctrl.so:system/lib/libste_audio_hwctrl.so \
@@ -176,7 +175,6 @@ PRODUCT_COPY_FILES += \
         vendor/sony/montblanc-common/proprietary/lib/libsys-utils.so:system/lib/libsys-utils.so \
         vendor/sony/montblanc-common/proprietary/lib/libta.so:system/lib/libta.so \
         vendor/sony/montblanc-common/proprietary/lib/libtee.so:system/lib/libtee.so \
-        vendor/sony/montblanc-common/proprietary/lib/libtrace.so:system/lib/libtrace.so \
         vendor/sony/montblanc-common/proprietary/lib/libu300-parser.so:system/lib/libu300-parser.so \
         vendor/sony/montblanc-common/proprietary/lib/libu300-ril.so:system/lib/libu300-ril.so \
         vendor/sony/montblanc-common/proprietary/lib/libUMP.so:system/lib/libUMP.so \
@@ -553,6 +551,4 @@ PRODUCT_COPY_FILES += \
         vendor/sony/montblanc-common/proprietary/usr/share/nmf/repository/mmdsp_8500_v2/vpp.elf4nmf:system/usr/share/nmf/repository/mmdsp_8500_v2/vpp.elf4nmf \
         vendor/sony/montblanc-common/proprietary/vendor/camera/APT00YP1.dat:system/vendor/camera/APT00YP1.dat \
         vendor/sony/montblanc-common/proprietary/vendor/camera/STW05BN0_BH6476.dat:system/vendor/camera/STW05BN0_BH6476.dat \
-        vendor/sony/montblanc-common/proprietary/xbin/ste-cg29xx_ctrl:system/xbin/ste-cg29xx_ctrl \
-        vendor/sony/montblanc-common/proprietary/xbin/watchdog-kicker:system/xbin/watchdog-kicker
         
